@@ -1,0 +1,356 @@
+body{
+    margin: 0;
+}
+.navbar{
+    background-color: rgb(36, 35, 35);
+    padding-bottom: 20px;
+    padding-top: 15px;
+}
+.web-name{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    padding-left: 50px;
+    letter-spacing: 4px;
+}
+.nav{
+    float: right;
+    margin-top: 10px;
+    margin-right: 50px;
+}
+.opt{
+    text-decoration: none;
+    color: white;
+    padding-right: 15px;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+.image{
+    height: 400px;
+    width: 400px;
+    border-radius: 210px;
+    position: absolute;
+    right: 250px;
+    top: 120px;
+    padding: 5px;
+    border: 5px solid black;
+    background-color: white;
+}
+.banner{
+    background-color: rgb(255, 220, 92);
+}
+.title1{
+    font-size: 55px;
+    letter-spacing: 7px;
+    font-weight: 400;
+    margin: 0;
+    width: 300px;
+    padding-top: 120px;
+    padding-left: 300px;
+}
+.title2{
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-weight: 300;
+    width: 420px;
+    padding-left: 300px;
+    padding-bottom: 30px;
+    margin-bottom: 0;
+}
+.bottom{
+    background-color: rgb(225 182 7);
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.text{
+    margin: 0;
+    width: 420px;
+    margin-left: 300px;
+    font-size: 18px;
+    color: white;
+}
+.violet{
+    background-color: rgb(255 254 231);
+    padding: 50px 30px;
+    position: relative;
+}
+.item{
+    font-size: 40px;
+    margin-top: 0;
+    font-weight: normal;
+    text-align: center;
+    border-bottom: 2px solid black;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+.big-img{
+    height: 500px;
+    width: 500px;
+    border-radius: 270px;
+    border: 5px solid rgb(255, 196, 0);
+}
+.chef{
+    font-size: 30px;
+    font-weight: normal;
+    margin-left: 165px;
+    letter-spacing: 3px;
+}
+.fish{
+    height: 300px;
+    width: 300px;
+    border-radius: 200px;
+    border: 5px solid rgb(255, 196, 0);
+}
+.salmon{
+    margin-left: 80px;
+    font-weight: normal;
+    letter-spacing: 2px;
+}
+.ab1{
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+}
+.rice{
+    height: 250px;
+    width: 250px;
+    border-radius: 200px;
+    border: 5px solid rgb(255, 196, 0);
+}
+.fried{
+    margin-left: 40px;
+    font-weight: normal;
+    letter-spacing: 2px;
+}
+.ab2{
+    position: absolute;
+    top: 140px;
+    right: 245px;
+}
+.piz{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    border: 5px solid rgb(255, 196, 0);
+}
+.pizza{
+    margin-left: 30px;
+    font-weight: normal;
+    letter-spacing: 2px;
+}
+.ab3{
+    position: absolute;
+    bottom: 110px;
+    right: 60px;
+}
+.blend{
+    width: 100%;
+    height: 987px;
+    position: absolute;
+    top: 0;
+    background-color: rgba(235 233 117 / 32%);
+}
+.other{
+    font-size: 40px;
+    margin: 0;
+    font-weight: normal;
+    text-align: center;
+    border-bottom: 2px solid black;
+    margin-right: 550px;
+    margin-left: 550px;
+}
+.masala{
+    position: relative;
+}
+.dish-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 60px;
+}
+.dish{
+    width: 200px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px 20px;
+}
+.dish-detail{
+    line-height: 25px;
+}
+.more{
+    color: black;
+    font-size: 20px;
+}
+.pos1{
+    position: absolute;
+    bottom: 180px;
+    left: 35px;
+}
+.pos2{
+    position: absolute;
+    top: 180px;
+    left: 305px;
+}
+.pos3{
+    position: absolute;
+    bottom: 180px;
+    right: 585px;
+}
+.pos4{
+    position: absolute;
+    top: 180px;
+    right: 310px;
+}
+.pos5{
+    position: absolute;
+    bottom: 180px;
+    right: 35px;
+}
+.box{
+    height: 900px;
+    width: 700px;
+    background-color: #FFDAB9;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.image-holder{
+    width: 1000px;
+    background-color: transparent;
+    position: absolute;
+    top: 130px;
+    left: 235px;
+}
+.hotel-image{
+    height: 300px;
+    width: 300px;
+    background-color: transparent;
+    margin: 7px;
+}
+.place{
+    margin: 0;
+    font-size: 50px;
+    text-align: center;
+    font-weight: normal;
+    padding-top: 40px;
+}
+.box2{
+    height: 350px;
+    width: 400px;
+    background-color: #8dfc93;
+    position: absolute;
+    bottom: -180px;
+    right: 200px;
+    padding: 20px 30px;
+    text-align: center;
+}
+.box-title{
+    font-size: 40px;
+    font-weight: normal;
+    margin: 30px 0;
+}
+.box-text{
+    padding-top: 20px;
+    line-height: 20px;
+}
+.box3{
+    width: 300px;
+    text-align: center;
+    background-color: #84e1ff;
+    padding: 20px;
+    position: absolute;
+    bottom: -100px;
+    left: 240px;
+}
+.box-title2{
+    font-weight: normal;
+    font-size: 30px;
+}
+button{
+    background-color: rgba(255, 255, 255, 0.781);
+    border: 0;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+.color{
+    margin-top: 250px;
+    background-color: rgb(225 255 252);
+    height: 900px;
+    padding: 0 140px;
+}
+.read{
+    font-size: 35px;
+    margin-top: 0;
+    padding-top: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+.review{
+    width: 450px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 30px;
+    float: left;
+}
+.review2{
+    width: 450px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 30px;
+    float: right;
+}
+.r-text{
+    font-size: 18px;
+    line-height: 24px;
+}
+.name{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.contact{
+    width: 658px;
+    position: relative;
+    background-color: rgb(219 229 255);
+    padding: 10px 30px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 50px;
+}
+.no{
+    font-size: 18px;
+    margin: 0;
+}
+.loc{
+    font-size: 18px;
+}
+.h{
+    font-size: 24px;
+    letter-spacing: 3px;
+}
+.call{
+    width: 120px;
+    display: inline-block;
+    padding-right: 50px;
+}
+.email{
+    width: 150px;
+    display: inline-block;
+    padding-right: 50px;
+}
+.location{
+    width: 280px;
+    display: inline-block;
+}
+.foot{
+    text-decoration: none;
+    color: white;
+}
+footer{
+    background-color: rgb(57, 56, 56);
+    height: 40px;
+    padding-top: 15px;
+    text-align: center;
+}
